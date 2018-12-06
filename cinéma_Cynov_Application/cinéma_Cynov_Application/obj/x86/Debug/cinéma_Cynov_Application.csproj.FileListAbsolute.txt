@@ -1,0 +1,12 @@
+C:\Users\CY_15\Documents\Visual Studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\obj\x86\Debug\cinéma_Cynov_Application.csprojResolveAssemblyReference.cache
+C:\Users\CY_15\Documents\Visual Studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\cinéma_Cynov_Application.exe
+C:\Users\CY_15\Documents\Visual Studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\cinéma_Cynov_Application.pdb
+C:\Users\CY_15\Documents\Visual Studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\obj\x86\Debug\cinéma_Cynov_Application.exe
+C:\Users\CY_15\Documents\Visual Studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\obj\x86\Debug\cinéma_Cynov_Application.pdb
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\cinéma_Cynov_Application.exe.manifest
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\cinéma_Cynov_Application.application
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\obj\x86\Debug\cinéma_Cynov_Application.exe.manifest
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\obj\x86\Debug\cinéma_Cynov_Application.application
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\MySql.Data.dll
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\MySql.Data.Entity.dll
+C:\Users\CY_15\documents\visual studio 2010\Projects\cinéma_Cynov_Application\cinéma_Cynov_Application\bin\Debug\MySql.Data.Entity.EF6.dll

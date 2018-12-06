@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cinéma_Cynov_Application", "cinéma_Cynov_Application\cinéma_Cynov_Application.csproj", "{D117E80C-6D46-4D1D-8B57-60E084595604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D117E80C-6D46-4D1D-8B57-60E084595604}.Debug|x86.ActiveCfg = Debug|x86
+		{D117E80C-6D46-4D1D-8B57-60E084595604}.Debug|x86.Build.0 = Debug|x86
+		{D117E80C-6D46-4D1D-8B57-60E084595604}.Release|x86.ActiveCfg = Release|x86
+		{D117E80C-6D46-4D1D-8B57-60E084595604}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

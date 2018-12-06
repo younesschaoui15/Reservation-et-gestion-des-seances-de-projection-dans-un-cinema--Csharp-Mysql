@@ -1,0 +1,12 @@
+*ADMIN:
+	email:	martin@cynov.com
+	mot de passe:	aaa
+	
+*CLIENT:
+	email:	m.Michely@cynov.com
+	mot de passe:	zzz
+	
+	email:	b.Bernardy@cynov.com
+	mot de passe:	admin
+	
+	
